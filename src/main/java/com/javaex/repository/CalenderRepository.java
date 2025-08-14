@@ -1,4 +1,4 @@
-package com.bottari.repository;
+package com.javaex.repository;
 
 public class CalenderRepository {
 	//field
